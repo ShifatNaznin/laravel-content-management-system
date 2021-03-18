@@ -1,0 +1,23 @@
+{
+    "name": "cms/cmsblog",
+    "description": "This is cms blog process",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Cms\\Cmsblog\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Cms\\Cmsblog\\CmsblogServiceProvider"
+            ],
+            "aliases": {
+                "TestData": "Cms\\Cmsblog\\Facades\\TestData"
+            }
+        }
+    }
+}
