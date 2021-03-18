@@ -1,6 +1,6 @@
 {
     "name": "cms/cmsblog",
-    "description": "This is cms blog process",
+    "description": "This is laravel-content-management-system blog process",
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
