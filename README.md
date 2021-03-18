@@ -1,3 +1,3 @@
 #contact us from package
 
-##This is Laravel CMS blog package 
+##This is laravel-content-management-system blog package 
